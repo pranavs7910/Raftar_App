@@ -1,0 +1,13 @@
+=========================================================
+  Total rows              : 297,848
+  Efficiency rows         : 146,264  (|speed| > 100 RPM)
+  Avg Torque Command      : 10.65 N.m
+  Avg Torque Feedback     : 10.64 N.m
+  Avg Motor Speed         : 225.8 RPM
+  Avg DC Bus Voltage      : 504.56 V
+  Avg DC Current          : 1.28 A
+  Avg P_mech              : 540.15 W
+  Avg P_elec              : 664.19 W
+  Avg Efficiency          : 79.25 %
+  Peak Efficiency         : 722.62 %
+=========================================================

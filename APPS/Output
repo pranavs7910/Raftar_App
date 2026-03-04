@@ -1,0 +1,4 @@
+  Total samples    : 532,255
+  Threshold        : ±10 %
+  Fault samples    : 110,418  (20.75 % of run)
+  Max deviation    : 17.04 %  @ sample 144,449

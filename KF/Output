@@ -1,0 +1,5 @@
+Loaded 1000 samples.
+
+Kalman Gain:   initial=0.9091  →  final=0.009950
+Covariance:    initial=0.0909  →  final=0.000995
+Estimate:      final x̂ = 14.5272 V
